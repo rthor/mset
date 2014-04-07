@@ -1,6 +1,6 @@
 # Mathematical Sets in JavaScript
 
-A reasonably well crafted although untest JavaScript implementation of a mathematical set. Created bcause I needed one proof to be tested and I didn't have access to Sage, Wolfram|Alpha or MatLab.
+A reasonably well crafted although untested JavaScript implementation of a mathematical set. Created bcause I needed one proof to be tested and I didn't have access to Sage, Wolfram|Alpha or MatLab.
 
 ## Usage
 
